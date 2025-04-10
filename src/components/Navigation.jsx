@@ -5,7 +5,7 @@ function Navigation() {
     <>
       <nav className="container">
         <div className="logo">
-          <img src="../../public/images/brand_logo.png" alt="logo" />
+          <img src="../images/brand_logo.png" alt="logo" />
         </div>
 
         <ul>

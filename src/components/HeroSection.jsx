@@ -19,8 +19,8 @@ function HeroSection() {
           <div className="shopping">
             <p>Also Available on</p>
             <div className="brand-icons">
-              <img src="../../public/images/amazon.png" alt="amazon-logo" />
-              <img src="../../public/images/flipkart.png" alt="flipkart-logo" />
+              <img src="../images/amazon.png" alt="amazon-logo" />
+              <img src="../images/flipkart.png" alt="flipkart-logo" />
             </div>
           </div>
         </div>
